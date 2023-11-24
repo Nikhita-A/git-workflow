@@ -5,7 +5,7 @@
 * `git pull` or `git pull <alias-name> <branch-name>`
 
 ### Create and checkout to new branch
-* `git ckeckout -b <new-branch-name>`
+* `git checkout -b <new-branch-name>`
 
 ### Adding changes to staging area
 * `git add .`
