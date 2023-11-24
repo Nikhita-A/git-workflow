@@ -14,7 +14,7 @@
 * `git commit -m <message>`
 
 ### remote add
-`git remote add <alias-name> <git-url>
+`git remote add <alias-name> <git-url>`
 
 ### Push changes to new branch
 * `git push <alias-name> <new-branch-name>`
